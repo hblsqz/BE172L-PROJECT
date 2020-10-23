@@ -1,4 +1,5 @@
 molecule_chembl_id,canonical_smiles,bioactivity_class,standard_value
+molecule_chembl_id,canonical_smiles,bioactivity_class,standard_value
 CHEMBL3670888,CC(C)CN(Sc1ccc2c(c1)CCO2)[C@H](CO)CCCCNC(=O)[C@@H](Cc1cccc2ccccc12)NC(=O)N1CCOCC1,active,0.995
 CHEMBL3670889,CC(C)CN(Sc1ccc2c(c1)OCCO2)[C@H](CO)CCCCNC(=O)[C@@H](Cc1cccc2ccccc12)NC(=O)N1CCOCC1,active,2.024
 CHEMBL3670890,CC(C)CN([C@H](CO)CCCCNC(=O)[C@H](Cc1ccccc1Br)NC(=O)N1CCOCC1)S(=O)(=O)c1ccc2c(c1)CCO2,active,0.599
